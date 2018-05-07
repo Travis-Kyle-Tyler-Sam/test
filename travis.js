@@ -1,3 +1,3 @@
 function groupProject(){
-    return "Awesome code"
+    return "REALLY AWESOME CODE"
 }
